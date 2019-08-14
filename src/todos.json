@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title":"Tarea1",
+            "responsible":"Edwin",
+            "description":"Lorem impsum",
+            "priority":"Baja"
+        },
+        {
+            "title":"Tarea2",
+            "responsible":"Karlyn",
+            "description":"Lorem impsum",
+            "priority":"Media"
+        },
+        {
+            "title":"Tarea2",
+            "responsible":"Edilson",
+            "description":"Holis",
+            "priority":"Alta"
+        }
+    ]
+}
