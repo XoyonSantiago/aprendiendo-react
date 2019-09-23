@@ -75,6 +75,6 @@ const MoreOptionsButton = () => (
 );
 
 ReactDOM.render(
-    <Tweet />, // componentes de funcio sin estado o componentes funcional
+    <Tweet />, // componentes de funcion sin estado o componentes funcional
     document.querySelector('#root')
 );
