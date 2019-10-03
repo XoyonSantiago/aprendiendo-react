@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import logo from '../logo.svg';
+import logo from '../../logo.svg';
 import Formulario from './Formulario';
 // importamos el estilo
 import './Navigation.css';
 
 // importamos los archivos json como traidos de base de datos
-import { todos } from '../todos.json';
+import { todos } from '../AppsTareas/todos';
 console.log(todos);
 
 
